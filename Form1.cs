@@ -19,7 +19,7 @@ namespace jkkg
 
         private void TextBox1_TextChanged(object sender, EventArgs e)
         {
-            textBox1.Text = "hejsan Andrei";
+            textBox1.Text = "Är alla här???";
         }
     }
 }
